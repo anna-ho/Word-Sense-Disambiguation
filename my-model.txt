@@ -1,0 +1,9929 @@
+Feature: telephone
+Log-likelihood: 10.839580911706463
+Sense: phone
+
+Feature: access
+Log-likelihood: 9.680344001221918
+Sense: phone
+
+Feature: phone
+Log-likelihood: 9.472704636443673
+Sense: phone
+
+Feature: machines
+Log-likelihood: 9.305650551780507
+Sense: product
+
+Feature: service
+Log-likelihood: 9.305650551780507
+Sense: phone
+
+Feature: car
+Log-likelihood: 9.305650551780507
+Sense: product
+
+Feature: call
+Log-likelihood: 9.305650551780507
+Sense: phone
+
+Feature: dead
+Log-likelihood: 9.305650551780507
+Sense: phone
+
+Feature: voice
+Log-likelihood: 9.305650551780507
+Sense: phone
+
+Feature: introduced
+Log-likelihood: 9.305650551780507
+Sense: product
+
+Feature: came
+Log-likelihood: 9.210340371976184
+Sense: phone
+
+Feature: plans
+Log-likelihood: 9.104979856318357
+Sense: product
+
+Feature: ps2
+Log-likelihood: 8.987196820661973
+Sense: product
+
+Feature: personal
+Log-likelihood: 8.85366542803745
+Sense: product
+
+Feature: apparel
+Log-likelihood: 8.85366542803745
+Sense: product
+
+Feature: analysts
+Log-likelihood: 8.85366542803745
+Sense: product
+
+Feature: models
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: gab
+Log-likelihood: 8.699514748210191
+Sense: phone
+
+Feature: banks
+Log-likelihood: 8.699514748210191
+Sense: phone
+
+Feature: frozen
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: auto
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: got
+Log-likelihood: 8.699514748210191
+Sense: phone
+
+Feature: 2
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: brands
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: cars
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: incs
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: maker
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: unit
+Log-likelihood: 8.699514748210191
+Sense: product
+
+Feature: bell
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: calling
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: makes
+Log-likelihood: 8.517193191416238
+Sense: product
+
+Feature: offering
+Log-likelihood: 8.517193191416238
+Sense: product
+
+Feature: information
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: serves
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: installed
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: tollfree
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: compaq
+Log-likelihood: 8.517193191416238
+Sense: product
+
+Feature: development
+Log-likelihood: 8.517193191416238
+Sense: product
+
+Feature: apple
+Log-likelihood: 8.517193191416238
+Sense: product
+
+Feature: far
+Log-likelihood: 8.517193191416238
+Sense: product
+
+Feature: fed
+Log-likelihood: 8.517193191416238
+Sense: phone
+
+Feature: standard
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: kraft
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: services
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: party
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: consider
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: callers
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: longdistance
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: 60
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: dedicated
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: dealers
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: operations
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: operator
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: people
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: federal
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: communications
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: co
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: cos
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: know
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: answering
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: old
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: share
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: older
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: pacific
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: telesis
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: planned
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: toys
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: customer
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: markets
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: fourth
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: remaining
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: clogged
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: rochester
+Log-likelihood: 8.294049640102028
+Sense: phone
+
+Feature: industry
+Log-likelihood: 8.294049640102028
+Sense: product
+
+Feature: morris
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: midrange
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: priced
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: 70
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: 20
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: uses
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: thousand
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: busy
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: 24
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: cuts
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: microprocessor
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: nationwide
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: handle
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: shedding
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: nonfood
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: complete
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: smith
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: partly
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: k
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: mart
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: food
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: retailers
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: charge
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: launch
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: monitor
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: 31
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: little
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: chevrolet
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: early
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: toyota
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: motor
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: aggressive
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: bid
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: boost
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: 1990
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: radio
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: agreed
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: pc
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: depression
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: expect
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: looking
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: plc
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: moment
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: subscriber
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: revlon
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: sources
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: clones
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: chain
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: although
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: benefiting
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: foods
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: built
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: day
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: shoe
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: program
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: manufacturing
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: plant
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: grew
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: asked
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: third
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: fiscal
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: cited
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: ltd
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: macintosh
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: expected
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: telephones
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: went
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: minutes
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: suddenly
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: retail
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: sale
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: telecommunications
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: bellsouth
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: illinois
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: agreement
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: texas
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: continued
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: period
+Log-likelihood: 8.006367567650246
+Sense: phone
+
+Feature: nearly
+Log-likelihood: 8.006367567650246
+Sense: product
+
+Feature: contrast
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: california
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: establish
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: europe
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: philip
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: bought
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: regain
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: competitors
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: unveiled
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: powerful
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: parts
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: estimated
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: skincare
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: frank
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: estimates
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: regulators
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: ones
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: defense
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: hundred
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: ill
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: talk
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: long
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: residential
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: begin
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: expects
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: strategy
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: consists
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: domestic
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: tape
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: remote
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: medical
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: room
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: right
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: users
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: noting
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: separate
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: jaclyn
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: slightly
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: eventually
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: chairman
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: manufacturers
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: example
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: need
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: analyst
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: local
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: southern
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: profitable
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: similar
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: cheaper
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: centers
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: tire
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: gold
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: nestle
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: discounts
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: truck
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: producing
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: compatible
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: demand
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: os2
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: requests
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: hasbros
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: meanwhile
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: issues
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: traders
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: pillow
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: named
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: saying
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: corsica
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: fell
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: 34
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: secure
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: rang
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: think
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: traditional
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: create
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: specialty
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: branches
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: hours
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: following
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: building
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: gained
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: 8100
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: consultants
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: heavily
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: advertised
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: top
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: offer
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: video
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: man
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: see
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: pay
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: low
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: return
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: residents
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: poorest
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: viewers
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: territory
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: chicagobased
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: learned
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: known
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: interested
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: talking
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: march
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: shed
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: best
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: ranging
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: gm10
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: midsized
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: production
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: hasnt
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: results
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: series
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: chemical
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: brand
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: announcement
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: might
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: kramer
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: manager
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: limited
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: compete
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: dial
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: oneonone
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: sex
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: chatter
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: dinners
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: magazine
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: emergency
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: gms
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: introduce
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: fall
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: incentives
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: bigger
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: shoes
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: require
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: lexus
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: sophisticated
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: really
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: report
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: official
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: sells
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: undertaken
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: latest
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: adult
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: chemicals
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: store
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: grand
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: prix
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: apples
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: 1986
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: shares
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: full
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: let
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: soon
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: groups
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: pennsylvania
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: contact
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: heavy
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: versions
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: carriers
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: significant
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: 14
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: grocery
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: tapped
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: filed
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: megaquest
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: talked
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: operators
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: became
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: caller
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: cabbage
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: though
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: colecos
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: problems
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: closing
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: parent
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: restructuring
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: highend
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: linked
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: loss
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: location
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: countries
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: keeping
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: armonk
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: scheduled
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: declined
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: focus
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: ncr
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: minicomputers
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: accounts
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: existing
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: crash
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: fund
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: half
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: newer
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: found
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: womens
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: san
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: 37
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: record
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: trader
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: motorola
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: 570000
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: mainly
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: westerncentral
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: agreements
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: acquire
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: midwestern
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: wisconsin
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: indiana
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: ive
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: heard
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: licensing
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: worldwide
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: currency
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: foreign
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: competing
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: remain
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: midsize
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: spokeswoman
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: bill
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: graphics
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: choice
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: firm
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: tired
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: expensive
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: firstquarter
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: outgoing
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: atlanta
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: indeed
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: ii
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: independent
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: middle
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: lawyers
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: want
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: trucks
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: investors
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: luxury
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: central
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: send
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: losses
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: faster
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: likely
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: blue
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: longawaited
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: bit
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: cant
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: posted
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: initial
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: go
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: hell
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: joe
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: agricultural
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: cards
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: charged
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: hallmark
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: exclusive
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: concentrate
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: basic
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: bath
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: germany
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: main
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: installing
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: parties
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: expansion
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: noise
+Log-likelihood: 7.600902459542082
+Sense: phone
+
+Feature: months
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: vax
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: digitals
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: giant
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: good
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: testing
+Log-likelihood: 7.600902459542082
+Sense: product
+
+Feature: economy
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: booming
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wants
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: computing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: december
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shortly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: struggling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: scrapped
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: january
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: southwestern
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 16000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: various
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: inspect
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: displays
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ground
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mainframe
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 90
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: previous
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jerome
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jenko
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: minnetonkas
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: counsel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 50
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cyanamid
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: la
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: prairie
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shulton
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: segment
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1971
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: talks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bankers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: regarding
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: possible
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: certain
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: atlas
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: properties
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gain
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: charity
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: abc
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sports
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: thanking
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: voting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gifford
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: offers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: football
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: videotape
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 1995
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: order
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: furniture
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fetch
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ryan
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: merrill
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lynch
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: moneymaker
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: securities
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: investigating
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jerseybased
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: attention
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: blend
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: inside
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gossip
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: advice
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: proper
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: interval
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 152
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 354000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: peck
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: intel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: seeing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: benefits
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: showing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: federally
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: managed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: owned
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: leased
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: link
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 13
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: government
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: workers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: eii
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: continues
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: beatrices
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: railintermodal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: piggyback
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: trailers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: containers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chassis
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: represents
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: circle
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 375
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reader
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 185
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: terminal
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: allows
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: user
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: process
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unjustified
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: site
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dialup
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: yesterdays
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: action
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: distinction
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hoglund
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: thomson
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mammography
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: robert
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stocking
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ges
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: milwaukee
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: awful
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sanctimonious
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gamboni
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: pauls
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: anyway
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rent
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: spread
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: thousands
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: voiced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: skepticism
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: practice
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: luxurycar
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: support
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: expense
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: millions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dollars
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: switched
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: somebody
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fighting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: impression
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: brad
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: elevator
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rhonas
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: suite
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: antonini
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: revitalized
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: trying
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: change
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: enlarging
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: playing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: catchup
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: computerization
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dutch
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jerseys
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: densely
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: populated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: pick
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: forcing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: william
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: weiss
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ameritechs
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jump
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 371000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: consolidated
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: giants
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: clout
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: completely
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: derail
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: demands
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: balance
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: toward
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: case
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pays
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: slotting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fees
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sergeants
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: furred
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sleep
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mikita
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: researcher
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: framingham
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mass
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: restricted
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ability
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: spirit
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: controlled
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: nonoffice
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: accommodate
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 48
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: phones
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: midas
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: repair
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shops
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pneumo
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: abex
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: landing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gear
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: flight
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: controls
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bottling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: produced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bottom
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: goodrichs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ta
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: r
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: r1
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: uniroyal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: goodrich
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: akron
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: yokohama
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: a001ra008r
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lister
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bag
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: decorated
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aristocratic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ribbon
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: coat
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: arms
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: deluxe
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: candy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pete
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: russo
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wanted
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: borrow
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: lefthanded
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: toggle
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: switch
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: megaquests
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bisexual
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: conversation
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rolling
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: discussing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: merits
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gender
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: combinations
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: palm
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: beach
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: millionaires
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: publisher
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: douglas
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: lambert
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: disconnected
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: notes
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: established
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: complaint
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rewritten
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bulletins
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fifthgradelevel
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: readers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: smartlease
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shove
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lease
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1300
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dec
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: swavely
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rule
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: possibility
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: morino
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: interview
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: attributed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: performance
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: allow
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: manage
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aspects
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: processing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: along
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: precious
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: moments
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bible
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: illustrated
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cherubic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: childrens
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: characters
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nash
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: entry
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: delayed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: necessary
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: diagnostics
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: showed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 8
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: animalhealth
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 7
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: complain
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: questions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wordperfect
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: provides
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: toy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: buyers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rock
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jem
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: winners
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: werent
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: avoid
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: drive
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: furtheir
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: terry
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chaps
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ralph
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lauren
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: merlin
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: distant
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: apologetically
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mexcuse
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: inspecteur
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: beretta
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: highestvolume
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: vehicles
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 96
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: steep
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: october
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: wife
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: spent
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mother
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sister
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ask
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: russell
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: commanded
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: lasts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: partners
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: numbers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: persuade
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: oversize
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: clothes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stocked
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: outlets
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: raising
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: levels
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: didnt
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: opened
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: los
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: angeles
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: overloaded
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: quake
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: someone
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: forgot
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: swore
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: viciously
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: quaker
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: oats
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 235
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: estridge
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: visible
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: executives
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: overseeing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: certainly
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: grabbed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: worst
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: offered
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: relatively
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sections
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: instead
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lowpriced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: comparable
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: quality
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: weinberger
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: spoke
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unsecured
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reagan
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: aboard
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: combination
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: transmit
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: signals
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: investments
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: risked
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: subsidize
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: profits
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: moog
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: principle
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: carleton
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: precision
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pneumatic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: components
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fr
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lets
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: barry
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stump
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: moderator
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: panel
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: scala
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: light
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: subscribers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fixed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: homes
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rather
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fairly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lowincome
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: required
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: core
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: negotiating
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: license
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: claude
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: montana
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fragrance
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: monteil
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: anxious
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: upset
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: child
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: declared
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lookalikes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: breeden
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hadnt
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: noticed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: desk
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tells
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: moving
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: cellular
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 185000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ninestate
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: boosting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 159
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: marshall
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fields
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cookies
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bringing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: clothing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: family
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: leave
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: telegram
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unread
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: alliedsignal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: township
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nj
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: utica
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reorganization
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aerospace
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: higherpriced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: goods
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: thought
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: tax
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: law
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: eliminate
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: deductions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: taxes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: beginning
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aimed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: regaining
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: breadandbutter
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: uppermiddleclass
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: americans
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: merchandising
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: exploration
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: strengthening
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: crude
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: helped
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: refining
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: keller
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hurt
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reduced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: returns
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: finally
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: cautious
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: syrupy
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: applied
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: biosystems
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pioneered
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: socalled
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: picks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: axes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: biotechnology
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rush
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: produces
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: plus
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reagents
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: analysis
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: synthesis
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: genes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: proteins
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: academic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: laboratories
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ralston
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: purina
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: combining
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nabiscos
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cereal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: raise
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: post
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nations
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: promised
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: feature
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lock
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: never
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: santa
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: claus
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fuqua
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: remarks
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 51yearold
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pdp
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: scientific
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1978
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lingerie
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: victorias
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: secret
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: entrepreneurs
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dish
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fare
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: counterparts
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dozens
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: language
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: offcolor
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: strikes
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fancy
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dirty
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: prerecorded
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: frozencheese
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: quietly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: folded
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: malcolm
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: forbes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: editorinchief
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: purple
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: harley
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: celebrate
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: perfume
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: elizabeth
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: taylors
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: passion
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: disaster
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: relief
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: temporary
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: housing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: repairs
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: created
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: soapopera
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: trivia
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: contest
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 900
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bright
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: spot
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: topselling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: minivan
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jeep
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 41
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 30377
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: excess
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: crowding
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lots
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hinder
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: efforts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1988model
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: financing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: briefs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pregnant
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: women
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: thorpe
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ob
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: conduct
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: transactions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mail
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wire
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: automatedteller
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: shared
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: totally
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mark50
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1983
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: navy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: recognized
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: successor
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: submarineseeking
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: torpedo
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pricing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: heating
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jim
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: poyner
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rauscher
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pierce
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: refsnes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: predicted
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cut
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cutting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lastest
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: changed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: believes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: massive
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: costcontrol
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reaching
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: involving
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: substantial
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: staff
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: closings
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 117
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 114
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: broader
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: better
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: financially
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: anonymous
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: quotes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: useful
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: everyone
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: knows
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: serve
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 500000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: division
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: diaper
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lillys
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: drugs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lilly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dista
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: labels
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: particularly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: weaker
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: inclusion
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: alkaril
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gaf
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sterns
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: assets
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: allied
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ann
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: taylor
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: brooks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: brothers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: modern
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fairfax
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kan
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: builds
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: capable
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 250000
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: generally
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: highperformance
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: compaqs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 386
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: justin
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: numerous
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: teddy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bears
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: samples
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: plush
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: corona
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: uk
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: steam
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: leon
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hu
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: governmentsponsored
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: marketed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: volunteers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: washington
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: headquarters
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: week
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: urging
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: members
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: alabama
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: arizona
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sens
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: test
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: happens
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: irving
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: traded
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: currencies
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 1920s
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ford
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: forced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aug
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1500
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rebates
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: supercharged
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: thunderbird
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cougar
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ah
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: happy
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: doubt
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wanting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: express
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: satisfaction
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: handsome
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: masonite
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fccs
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: effort
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: shift
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: monopoly
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: separation
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: changes
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: micro
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: channel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ingredient
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: promoted
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: technological
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: improvement
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pcs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rjrs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: climbed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 271
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 238
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sparked
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gains
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nabisco
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cookie
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cracker
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chips
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nec
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hitachi
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ahead
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: memory
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: toshiba
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dropping
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: allegedly
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: suits
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ms
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: superfon
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: soothing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fresno
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: calif
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: deranged
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: vietnam
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: veteran
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: killing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dialed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: homicide
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: enterprise
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 15700
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: harrisburg
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: philadelphia
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: proprietors
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hires
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: yet
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: flagship
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hollywoods
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dreamboat
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stays
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: leaves
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sponsor
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: coupons
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: newsletter
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mailed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: able
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gather
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: desirable
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: later
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: elsie
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: goal
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: exert
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: repeat
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: session
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: prime
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: minister
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ironically
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: draw
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bidders
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: decline
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: contributed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: becors
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: excavation
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: regarded
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fit
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: suitors
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 65
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: provision
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: north
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: delay
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: disk
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: drives
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: glitches
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: skilled
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: earlyretirement
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: programs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: producer
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: barked
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: warning
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: van
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: theyve
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: proposed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: measures
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: setting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: organizers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: forming
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: clearing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: swap
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stepping
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: recruitment
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: publicizing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: instances
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: labor
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: leaders
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unionbusting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: campbell
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 129
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 169
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: breakfasts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: swansons
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: starts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pursuing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: breakfasteaters
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: press
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: briefing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: related
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: elaborate
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: frain
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: menswear
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: eyecare
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 162
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: linking
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: terminals
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ad
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: haagendazs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: newsday
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jewelry
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: crystal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: eddie
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: foley
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: consolidation
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gleason
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: credits
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: turnaround
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: led
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: midwest
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: england
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: factories
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kaepa
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: athletic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: management
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: linen
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: xtcompatible
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ibmcompatible
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: upgraded
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: written
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: microsoft
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: close
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shipping
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pause
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: holders
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: funds
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: complained
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: couldnt
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: failed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: honor
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: redemption
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: timely
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fashion
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: telefonica
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: nacional
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: equivalent
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 53
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: spains
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ninthlargest
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: polaroid
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: spectra
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: instantfilm
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: seven
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: told
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: try
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: elsewhere
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sherer
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: equatorials
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: niche
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: potentially
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sole
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: supplier
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: lowspeed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: satellite
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: must
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: depend
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: upon
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: experimental
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: managers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: especially
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: scarce
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fashionability
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: logo
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: franciscobased
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 126
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: locallong
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: distance
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 93
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 684
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: earthbeats
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: activism
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reflected
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: opinions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: invite
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: names
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: electronic
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: petitions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sent
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: politicians
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: merely
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: instructions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: client
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: separately
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: member
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: tower
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: around
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 68030
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: volvo
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lacks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: presence
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ec
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: providing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: details
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unregulated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 177000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: cents
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dominated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: celebrity
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: horoscopes
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: romance
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: eight
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tibbs
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: maggie
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mcguire
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tearfully
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: johnny
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: colonia
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: received
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: knoll
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: holdings
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 21
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: club
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: produce
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mens
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fragrances
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: restaurant
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: w
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: magee
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: managing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: director
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tullett
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tokyo
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: forex
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: broker
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: apollo
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: workstations
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: directly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: suns
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: competitively
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: doraville
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ga
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: output
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: edmonton
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jammed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: disgruntled
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fans
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: steaming
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: defection
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: player
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stimulated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: pushing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: advanced
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: combine
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: transmissions
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: krauses
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: kent
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ran
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dialing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tollcall
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: softwares
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fred
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gibbons
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: strength
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: success
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: harvard
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pacing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: advance
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: look
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ways
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: propose
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: flatrate
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fee
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 130
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1923
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 106
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: america
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: raised
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: galant
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mirage
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: news
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: eppler
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: guerin
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: brokerage
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: whatever
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: utah
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: decades
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: scrimping
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: british
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: telecom
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stuck
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: antique
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: maintain
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: prone
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: crossed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: commodore
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chester
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: net
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: income
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: amiga
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: edged
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 12
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: spectrum
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 250
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: project
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: picture
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: handsets
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: connected
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: maybe
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 500
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fellow
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rearwheeldrive
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: regal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pontiac
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: retirement
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: interrupted
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: switchboard
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: chastised
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: officials
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ordered
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: free
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 162000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 12month
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sept
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: original
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mainstay
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: classrooms
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: accounting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 40
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: estimate
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: develop
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: publish
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: moved
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 77
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: otc
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: topped
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 207000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 42
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 1295
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: obscene
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: shouting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bursts
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: conagra
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: healthy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: antipornography
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fought
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: vigorously
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sexually
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: explicit
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: messages
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: effect
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: defeat
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: discontinuation
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: insilco
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sees
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: difficult
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: prospects
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cash
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 83000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: compared
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 5000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: generations
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: white
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: aides
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: confess
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: attachment
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: disembodied
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: voices
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: favors
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wakeup
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: staffers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: trips
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: theyd
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: explanation
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: morning
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: poster
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: lists
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: glasses
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: boating
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: skiing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: marketer
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: allegra
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ziari
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sunglasses
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: consisting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: processor
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rom
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: multiplexing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: demultiplexing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: os
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: compatibility
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 360
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: interface
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: adapters
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: cip
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: takes
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: care
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: code
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: conversion
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: maintenance
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: monitoring
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: provinces
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: population
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 61
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: surpasses
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jiangsus
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 50000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sinclair
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: cincinnati
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: running
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stunned
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: complaints
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: double
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: renault
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: daf
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nv
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: preliminary
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jointly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: manufacture
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: live
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: steven
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: norwitz
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rowe
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: associates
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: baltimore
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: theyll
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: happened
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: yield
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: captain
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: figures
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mattel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: infrared
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gunfire
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: villains
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cartoon
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: everything
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reference
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: books
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: whos
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: trade
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: guides
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: healthcare
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: professionals
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: grown
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 229
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 146
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ogilvy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: interests
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: relations
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: margin
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 29
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: berkshire
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: specialized
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: beds
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: daybeds
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: allegheny
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: berkshires
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: metal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: supplies
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: semifinished
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: furnishings
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: discuss
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: wow
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: broaden
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lowerpriced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: launched
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: november
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nissan
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: unveiling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: infiniti
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: entering
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: upscale
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 9370s
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 9370
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: update
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: facsimile
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reproduce
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: document
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ubiquitous
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: thrust
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: evident
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hired
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: former
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: charlies
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: angels
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: endorse
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: wear
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: polyester
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: palace
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: image
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: things
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: risks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: confusing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ramada
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: budget
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: motels
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: midpriced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: highpriced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lodgings
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: parkmount
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hospitality
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 160
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rodeway
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: inns
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: londonbased
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ladbroke
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: j
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: walter
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: thompson
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: endured
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: string
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: account
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pepsico
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: slice
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: soft
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: drink
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: localexchange
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: usage
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: statements
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: denied
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: clearer
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: looked
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: acquistions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: broadly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: supplement
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: maids
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chilled
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: particular
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: xerox
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: twoyear
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: costcutting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: officeequipment
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: restricting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: totaling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 2300
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: authorized
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: newest
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: highestpriced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: creating
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: class
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: retailer
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: motors
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: soontobeintroduced
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: version
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: highvolume
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: credit
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: working
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: capital
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: extends
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: replaces
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: expired
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jan
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mainframes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: buildingmaterials
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: onetime
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aftertax
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: silence
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wistful
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sigh
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: replied
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wish
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: morocco
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 125
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: loan
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: modernize
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: claimed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: szemzo
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: regulated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: common
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: simply
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stop
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: deem
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: offensive
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: wilkin
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: respond
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sculpin
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ocean
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: swell
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: depressed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: oklahoma
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hardscrabble
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: farm
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: states
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: arkansas
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: kansas
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: missouri
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fewer
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 8200
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: actual
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reduction
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: beatrice
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: specialtyfood
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: previously
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: molinari
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: designing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: newspapers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: actress
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kathleen
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: read
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fab
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: laundry
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: detergent
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: contract
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: specified
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: identity
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: confidential
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: alfin
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stopped
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pretax
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: writeoff
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: july
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: thirdquarter
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 46
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: leaving
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gi
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: transformers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: tonka
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: scored
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pound
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: puppies
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: joint
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: promotion
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pickup
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: semantic
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dispute
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: spring
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: interstate
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tariffs
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: portion
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: type
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 2006
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: represented
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: noxells
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: clarion
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: combined
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 254
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: followed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: maybelline
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 177
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 139
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kloeckner
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: humboldtdeutz
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reeling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: machinery
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 79
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: heres
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ballistics
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sir
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: signal
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: paints
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stains
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: foodservice
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shipments
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kind
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: confusion
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lend
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: negative
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: positions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gall
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mountain
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: publishes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bureau
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: investigation
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: agents
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: probing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: irancontra
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: affair
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: assigned
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bugged
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rolm
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: switchboards
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: branch
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: exchanges
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: handling
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: according
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: dataquest
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jose
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: califbased
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: techknits
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: denton
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mills
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: albany
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: miss
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dr
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sweaters
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: infants
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: toddlers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: appears
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hasbro
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: concerned
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hospital
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ringing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: permit
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: military
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: importing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: survive
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bracing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chicken
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: george
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kodak
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: japanesemade
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: alkaline
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: batteries
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: desktoppublishing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: package
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: printer
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: circuit
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mouse
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pointing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: device
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aldus
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pagemaker
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: unable
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stressing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: surprised
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: observers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: unveil
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: laptop
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: carbide
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 575
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: imperial
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: industries
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 505
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: revamped
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lipstick
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nailpolish
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hung
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: immediately
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 143
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: believed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: deciding
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ltx
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: teradyne
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: testers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aiming
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stylish
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: kitchen
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bedroom
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: items
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bearing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stewarts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ericsson
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: taken
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 442000
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: china
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: supply
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: switching
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: chrysler
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: putting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: driverside
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bags
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: grannys
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: place
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: alexandria
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: playmobile
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: plastic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: preschool
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 260
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: walking
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: door
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: owner
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rodger
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mario
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: maltese
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fidelity
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: shareholder
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: audiovisualsystems
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mineola
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: caused
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: quit
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: seeking
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fidelitys
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: representatives
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: worried
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: highroller
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pumpkin
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: productions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lanterns
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: grotesque
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: polyurethane
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: faces
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: heading
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bain
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: soleil
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cincinnatibased
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: procter
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gamble
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: richardsonvicks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: subsidiary
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: softsoap
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: liquid
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: village
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: soaps
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shampoos
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sesame
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bubble
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: shampoo
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: engines
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: involved
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pratts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pw4000
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reached
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: partially
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lowercost
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: latchkey
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: placed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: whirlpool
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: appealing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: appliances
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: conducted
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: survey
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: schoolage
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: kelly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: assume
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gradually
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: conglomerate
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sentence
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: centrex
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reduce
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rates
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: neither
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: incoming
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reynolds
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: beef
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: consumerproducts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aluminum
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: foil
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: packaging
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: least
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: scimed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: designs
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: disposable
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: treat
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cardiovascular
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: disease
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: coronary
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: balloon
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: angioplasty
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: catheters
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: widen
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: obstructed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: arteries
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: facilitating
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: blood
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: flow
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hailed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: singers
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: divestiture
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sewing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: excellent
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: takeover
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: target
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: furiously
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 3600
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: congress
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: center
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: democratic
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: convention
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: healthclub
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bally
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gambling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lotteries
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: amusement
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: friday
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: extending
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: consideration
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 33
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: automatically
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: locked
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: twophone
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jazz
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mac16
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mini
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 256
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: synchronous
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: asynchronous
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: explaining
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lower
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: margins
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: concentration
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: seasonal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: outdoor
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: carry
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: remainder
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dolls
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: baker
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: drilling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: substantially
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pump
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: discussions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: operation
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: continuing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: point
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hear
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sorts
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: garbled
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: commotion
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: du
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pont
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: wilmington
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: del
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: capacity
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: zytel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nylon
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: resins
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: uentrop
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: patients
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: taking
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: advantage
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: kinds
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: checking
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: airline
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: schedules
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: baseball
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: scores
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tracking
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: favorite
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: stocks
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: arranging
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: watch
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: payforview
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: movies
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tv
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sets
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: firestorm
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hesitant
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: launching
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: xrated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: supermarkets
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: trumpeting
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: every
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: equal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: superior
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nationally
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jeans
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: watches
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: answered
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: pain
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: humiliation
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: deserve
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gotta
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: choose
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: cline
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: houston
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: amid
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: growing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: problem
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 1982
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reports
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: developed
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: filter
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mt
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: pulaski
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: fifth
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 1800
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sure
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: burger
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: king
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: feedback
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: damper
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: airconditioner
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: blown
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: roof
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: regional
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: concerns
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: secondquarter
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: earnings
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bolstered
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: primarily
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: reported
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: decrease
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: bert
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: roberts
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: jr
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: mci
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: work
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: brings
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: night
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: weekends
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: announce
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: enormously
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fueling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: explosive
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hooked
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 512
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: weakness
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: pizza
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: seafood
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hefty
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: introductory
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: green
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: vegetable
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cray
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: crays
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rest
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: receiving
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: minneapolisbased
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fact
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: willing
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: arrangements
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reflects
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: attempt
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: recording
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: gubas
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 911
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: played
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: trial
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sitter
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: begging
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ambulance
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: clients
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sticking
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sidelines
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: institutions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lookout
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reasonably
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bull
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hn
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 69owned
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: groupe
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dpx2
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: unix
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dps
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 6000
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: succeeds
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: host
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: huge
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: face
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: slight
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: variations
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: familiar
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: theme
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: nine
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hartmarx
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: expanded
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: suit
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: styles
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hart
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: schaffner
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: marx
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: noxell
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: historically
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: vendor
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: crackle
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: aged
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: chuckle
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: devices
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: basically
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: space
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: modify
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: intends
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: longterm
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: profitability
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: board
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: voted
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 150
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: halloween
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: ballooned
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: gifts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: novelties
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: optometric
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: garner
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: groundcoffee
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: costly
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: acquisitions
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sarah
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: rivals
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: energy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: wave
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: interco
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: trainer
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reebok
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: etonic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dynamic
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: reaction
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: plate
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: jockey
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: silks
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: aeroform
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: label
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: rhonda
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: allen
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sculptor
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: owns
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: horses
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: abuse
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: realizing
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: john
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: carl
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: warnecke
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: architect
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: promises
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 8400
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: blankets
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: lot
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: volkswagen
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: troy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: mich
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: suggested
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: entrylevel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: fox
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: stouffer
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dinner
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: supreme
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chat
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: electric
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: japan
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: begun
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: visitel
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: accessory
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: builtin
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: pictures
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ordinary
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 68
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: 47
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: recruit
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: renting
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tie
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: together
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: discovered
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: unglamorous
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: sturdy
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 3x
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: 275000
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bestselling
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: families
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: entrees
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lasagna
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: meat
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dishes
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: oddly
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: brokers
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: hungry
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: tips
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: departments
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: highmultiple
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: bet
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: future
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: hormel
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: carries
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: risk
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: profusion
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: flat
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: generated
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: sending
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: transmitted
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: anymore
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: laments
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: steve
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: segal
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: dealerships
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: beautyproducts
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: believe
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: estee
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lauder
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: cosmair
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lancome
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: follow
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: archrival
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: chanels
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: lead
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: media
+Log-likelihood: 6.907755278982137
+Sense: product
+
+Feature: atlantabased
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: function
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: renamed
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: ring
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: master
+Log-likelihood: 6.907755278982137
+Sense: phone
+
+Feature: years
+Log-likelihood: 2.639057329615259
+Sense: product
+
+Feature: products
+Log-likelihood: 2.5257286443082556
+Sense: product
+
+Feature: market
+Log-likelihood: 2.4849066497880004
+Sense: product
+
+Feature: calls
+Log-likelihood: 2.3978952727983707
+Sense: phone
+
+Feature: companys
+Log-likelihood: 2.3978952727983707
+Sense: product
+
+Feature: companies
+Log-likelihood: 2.3978952727983707
+Sense: phone
+
+Feature: international
+Log-likelihood: 2.3025850929940455
+Sense: product
+
+Feature: corp
+Log-likelihood: 2.0794415416798357
+Sense: product
+
+Feature: private
+Log-likelihood: 2.0794415416798357
+Sense: phone
+
+Feature: sell
+Log-likelihood: 2.0794415416798357
+Sense: product
+
+Feature: ibms
+Log-likelihood: 2.0794415416798357
+Sense: product
+
+Feature: product
+Log-likelihood: 2.0794415416798357
+Sense: product
+
+Feature: computers
+Log-likelihood: 2.0149030205422647
+Sense: product
+
+Feature: current
+Log-likelihood: 1.9459101490553135
+Sense: product
+
+Feature: first
+Log-likelihood: 1.9459101490553135
+Sense: product
+
+Feature: lines
+Log-likelihood: 1.9459101490553132
+Sense: phone
+
+Feature: sales
+Log-likelihood: 1.8971199848858813
+Sense: product
+
+Feature: end
+Log-likelihood: 1.8718021769015913
+Sense: phone
+
+Feature: network
+Log-likelihood: 1.791759469228055
+Sense: phone
+
+Feature: group
+Log-likelihood: 1.791759469228055
+Sense: product
+
+Feature: keep
+Log-likelihood: 1.791759469228055
+Sense: phone
+
+Feature: york
+Log-likelihood: 1.791759469228055
+Sense: phone
+
+Feature: get
+Log-likelihood: 1.791759469228055
+Sense: phone
+
+Feature: open
+Log-likelihood: 1.791759469228055
+Sense: phone
+
+Feature: next
+Log-likelihood: 1.791759469228055
+Sense: product
+
+Feature: spokesman
+Log-likelihood: 1.791759469228055
+Sense: product
+
+Feature: ibm
+Log-likelihood: 1.6739764335716716
+Sense: product
+
+Feature: another
+Log-likelihood: 1.6094379124341003
+Sense: phone
+
+Feature: general
+Log-likelihood: 1.6094379124341003
+Sense: product
+
+Feature: selling
+Log-likelihood: 1.6094379124341003
+Sense: product
+
+Feature: ago
+Log-likelihood: 1.6094379124341003
+Sense: product
+
+Feature: stores
+Log-likelihood: 1.6094379124341003
+Sense: product
+
+Feature: several
+Log-likelihood: 1.6094379124341003
+Sense: product
+
+Feature: earlier
+Log-likelihood: 1.6094379124341003
+Sense: product
+
+Feature: computer
+Log-likelihood: 1.540445040947149
+Sense: product
+
+Feature: inc
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: profit
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: marketing
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: back
+Log-likelihood: 1.3862943611198906
+Sense: phone
+
+Feature: increase
+Log-likelihood: 1.3862943611198906
+Sense: phone
+
+Feature: software
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: april
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: dozen
+Log-likelihood: 1.3862943611198906
+Sense: phone
+
+Feature: rose
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: less
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: help
+Log-likelihood: 1.3862943611198906
+Sense: phone
+
+Feature: way
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: already
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: use
+Log-likelihood: 1.3862943611198906
+Sense: phone
+
+Feature: month
+Log-likelihood: 1.3862943611198906
+Sense: product
+
+Feature: also
+Log-likelihood: 1.3217558399823195
+Sense: product
+
+Feature: big
+Log-likelihood: 1.252762968495368
+Sense: product
+
+Feature: mr
+Log-likelihood: 1.2237754316221157
+Sense: product
+
+Feature: sold
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: four
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: vice
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: includes
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: held
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: control
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: 300
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: wall
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: research
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: like
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: five
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: strong
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: gm
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: house
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: ever
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: power
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: designed
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: west
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: much
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: wouldnt
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: popular
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: trading
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: state
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: picked
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: large
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: bank
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: billion
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: air
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: adding
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: based
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: lost
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: come
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: including
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: price
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: important
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: second
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: office
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: recent
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: included
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: run
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: 100
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: announced
+Log-likelihood: 1.0986122886681098
+Sense: phone
+
+Feature: say
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: cover
+Log-likelihood: 1.0986122886681098
+Sense: product
+
+Feature: one
+Log-likelihood: 0.9555114450274363
+Sense: phone
+
+Feature: direct
+Log-likelihood: 0.9162907318741551
+Sense: phone
+
+Feature: name
+Log-likelihood: 0.916290731874155
+Sense: product
+
+Feature: acquired
+Log-likelihood: 0.916290731874155
+Sense: product
+
+Feature: said
+Log-likelihood: 0.8708283577973976
+Sense: product
+
+Feature: 45
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: since
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: business
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: introducing
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: integrated
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: 1
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: small
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: 5
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: us
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: tip
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: getting
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: street
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: enough
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: cost
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: made
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: either
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: give
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: costs
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: often
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: facilities
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: outside
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: 1985
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: larger
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: area
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: many
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: executive
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: officer
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: even
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: richard
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: commission
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: high
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: prices
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: networks
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: units
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: corps
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: instance
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: recently
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: different
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: 1989
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: star
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: firms
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: proprietary
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: 35
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: department
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: whose
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: base
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: continue
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: consumers
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: currently
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: 30
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: american
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: charges
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: added
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: commercial
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: mrs
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: two
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: almost
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: 3
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: push
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: corporate
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: available
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: take
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: 1987
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: pressure
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: husband
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: higher
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: agency
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: well
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: largely
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: result
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: operating
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: patch
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: kids
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: ny
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: 15
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: jumped
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: perhaps
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: smaller
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: line
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: ended
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: started
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: others
+Log-likelihood: 0.6931471805599453
+Sense: product
+
+Feature: always
+Log-likelihood: 0.6931471805599453
+Sense: phone
+
+Feature: number
+Log-likelihood: 0.5108256237659907
+Sense: phone
+
+Feature: total
+Log-likelihood: 0.5108256237659907
+Sense: phone
+
+Feature: data
+Log-likelihood: 0.5108256237659907
+Sense: phone
+
+Feature: time
+Log-likelihood: 0.5108256237659907
+Sense: product
+
+Feature: customers
+Log-likelihood: 0.47000362924573563
+Sense: phone
+
+Feature: consumer
+Log-likelihood: 0.40546510810816444
+Sense: product
+
+Feature: sellers
+Log-likelihood: 0.40546510810816444
+Sense: product
+
+Feature: called
+Log-likelihood: 0.40546510810816444
+Sense: product
+
+Feature: past
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: increased
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: using
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: among
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: 25
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: used
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: great
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: home
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: stock
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: world
+Log-likelihood: 0.4054651081081644
+Sense: phone
+
+Feature: year
+Log-likelihood: 0.3794896217049037
+Sense: product
+
+Feature: million
+Log-likelihood: 0.35667494393873245
+Sense: product
+
+Feature: would
+Log-likelihood: 0.35667494393873245
+Sense: product
+
+Feature: new
+Log-likelihood: 0.30748469974796055
+Sense: product
+
+Feature: last
+Log-likelihood: 0.2876820724517809
+Sense: product
+
+Feature: equipment
+Log-likelihood: 0.2876820724517809
+Sense: product
+
+Feature: making
+Log-likelihood: 0.2876820724517809
+Sense: product
+
+Feature: still
+Log-likelihood: 0.2876820724517809
+Sense: product
+
+Feature: businesses
+Log-likelihood: 0.2876820724517809
+Sense: product
+
+Feature: may
+Log-likelihood: 0.28768207245178085
+Sense: phone
+
+Feature: quarter
+Log-likelihood: 0.2231435513142097
+Sense: product
+
+Feature: growth
+Log-likelihood: 0.1823215567939546
+Sense: phone
+
+Feature: three
+Log-likelihood: 0.1823215567939546
+Sense: phone
+
+Feature: says
+Log-likelihood: 0.15415067982725836
+Sense: product
+
+Feature: company
+Log-likelihood: 0.12516314295400605
+Sense: product
+
+Feature: <head>line<head>
+Log-likelihood: 0.09633110893843207
+Sense: product
+
+
